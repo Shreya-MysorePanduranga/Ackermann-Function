@@ -1,0 +1,3 @@
+This was the mini project of EEDG/CE 6370: Design and Analysis of Reconfigurable Computing Systems, which i took in Spring 2021 semester. The project was to implement Ackerman’s function in hardware and compare performance with software using the Zynq device on the Zybo board.
+The software code is pretty straightforward and measuring runtime requirements for software was easy. For hardware-based computation, the runtime is estimated based on number of clock cycles that are needed to complete the task.
+A detailed report of the design and analysis is uploaded which include details about analysis, design, and implementation of both the functions in hardware.
